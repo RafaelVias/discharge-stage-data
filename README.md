@@ -5,9 +5,9 @@ This repository contains discharge and stage measurements from 180 stream gauges
 ## Data Description
 
 The repository contains stage-discharge measurements from:
-- Iceland: [X] stations
-- Sweden: [X] stations
-- United States: [X] stations
+- Iceland: 60 stations
+- Sweden: 60 stations
+- United States: 60 stations
 
 Each data file contains the following variables:
 - `meas_nu`: Measurement number/ID
