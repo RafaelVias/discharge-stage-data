@@ -24,4 +24,4 @@ This dataset was analyzed in:
   - Access: Data freely available at https://waterdata.usgs.gov/nwis/measurements
 
 ## Acknowledgments
-We thank the Icelandic Meteorological Office and the Swedish Meteorological and Hydrological Institute for providing access to their discharge measurement data, and the United States Geological Survey for making their data freely available on the USGS National Water Information System.
+We thank the Icelandic Meteorological Office and the Swedish Meteorological and Hydrological Institute for providing access to their discharge measurement data, and the United States Geological Survey for making their data freely available in their USGS National Water Information System database.
