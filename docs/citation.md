@@ -1,9 +1,5 @@
 # Citation Information
 
-## Dataset Citation
-When using this data, please cite:
-[Citation information will be added upon publication]
-
 ## Related Paper
 This dataset was analyzed in:
 [Paper citation will be added upon publication]
