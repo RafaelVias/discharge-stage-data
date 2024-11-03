@@ -6,7 +6,10 @@ This document provides detailed descriptions of the variables in the discharge-s
 
 - `meas_nu`: Measurement number/identifier
   - Type: Character string
-  - Description: A unique identifier for each measurement
+  - Description: A unique identifier for each measurement. 
+  - Note on enumeration:
+    - Iceland and Sweden: Original measurement numbers as provided by the institutions
+    - USA: Measurements enumerated from 1 to n for each station, ordered by stage height (W)
 
 - `station_number`: Station identifier
   - Type: Character string
@@ -24,14 +27,14 @@ This document provides detailed descriptions of the variables in the discharge-s
 - `W`: Stage/water level
   - Type: Numeric
   - Unit: meters (m)
-  - Description: The height of the water surface relative to a local datum
+  - Description: The height of the water surface relative to a local datum (reference point)
 
 - `Q`: Discharge
   - Type: Numeric
   - Unit: cubic meters per second (m³/s)
   - Description: The volume of water flowing through the river cross-section per unit time
 
-- `country`: Country location
+- `country`: Country of location
   - Type: Character string
   - Values: "iceland", "sweden", "usa"
   - Description: Country where the gauging station is located
