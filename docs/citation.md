@@ -25,11 +25,4 @@ This dataset was analyzed in:
   - Note: This data has been collected from the USGS website, where all measurements are publicly accessible.
 
 ## Acknowledgments
-We thank the Icelandic Meteorological Office and the Swedish Meteorological and Hydrological Institute for providing access to their discharge measurement data. The U.S. data was obtained from the USGS National Water Information System.
-Would you like me to:
-
-Add specific details about data collection periods?
-Include more information about the USGS data access?
-Add any institutional contacts or permissions?
-Modify any part of the acknowledgment?
- CopyRetryClaude does not have the ability to run the code it generates yet.Claude can make mistakes. Please double-check responses.
+We thank the Icelandic Meteorological Office and the Swedish Meteorological and Hydrological Institute for providing access to their discharge measurement data, and the United States Geological Survey for making their data freely available on the USGS National Water Information System.
