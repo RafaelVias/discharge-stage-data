@@ -11,7 +11,7 @@ This dataset was analyzed in:
 ## Data Sources
 
 - Iceland:
-  - Source: Icelandic Meteorological Office
+  - Source: Icelandic Meteorological Office (IMO)
   - Note: This data was provided directly by the institution and is not otherwise publicly available.
 
 - Sweden:
